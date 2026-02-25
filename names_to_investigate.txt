@@ -1,4 +1,4 @@
-Target Name - Date of case taken - Case researcher - Completion status
+Target Name - Date of case taken - Case researcher(s) - Completion status
 
 Donald Trump - 02/24/2026 - benn8901 - incomplete
 Bill Gates
