@@ -10,7 +10,7 @@ Prince Andrew - 02/25/2026 - mairo4837 - completed
 Woody Allen
 Bruce Willis
 Cameron Diaz
-Kevin Spacey
+Kevin Spacey - 02/25/2026 - mairo4837 - incomplete
 Mick Jagger
 George Lucas
 Tony Blair
@@ -23,7 +23,7 @@ Peter Dalglish
 Taieb Fassi Fihri
 Hamad Bin Jussin
 Abdullah Bin Zayed
-Saad Hariri
+Saad Hariri - 02/25/2026 - mairo4837 - incomplete
 Ahmed Aboul Gheit
 Alan Dershowitz
 Andrew Cuomo
