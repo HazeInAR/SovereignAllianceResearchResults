@@ -1,6 +1,6 @@
 Target Name - Date of case taken - Case researcher - Completion status
 
-Donald Trump - benn8901
+Donald Trump - 02/24/2026 - benn8901 - incomplete
 Bill Gates
 Elon Musk
 Leonardo DiCaprio
@@ -31,7 +31,7 @@ Phil Collins
 Larry Summers - 02/24/2026 - redbonemillennial - completed
 Ehud Barak
 Leon Black
-Les Wexner - connorfornes
+Les Wexner - 02/25/2026 - connorfornes - incomplete
 Glenn Dublin
 Peter Mandelson
 Khalid Bin Ahmed Al Khalif
