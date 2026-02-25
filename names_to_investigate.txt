@@ -1,10 +1,12 @@
+Target Name - Date of case taken - Case researcher - Completion status
+
 Donald Trump - benn8901
 Bill Gates
 Elon Musk
 Leonardo DiCaprio
 George Bush
 Bill Clinton
-Prince Andrew
+Prince Andrew - 02/25/2026, mairo4837, completed
 Woody Allen
 Bruce Willis
 Cameron Diaz
@@ -26,12 +28,12 @@ Ahmed Aboul Gheit
 Alan Dershowitz
 Andrew Cuomo
 Phil Collins
-Larry Summers - Redbone, completed
+Larry Summers - 02/24/2026, redbonemillennial, completed
 Ehud Barak
 Leon Black
-Les Wexner
+Les Wexner - connorfornes
 Glenn Dublin
 Peter Mandelson
 Khalid Bin Ahmed Al Khalif
 Makhdoom Shah Mahmood
-Henry Odein Aiumoqobia - Redbone
+Henry Odein Aiumoqobia - 02/24/2026, redbonemillennial, completed
