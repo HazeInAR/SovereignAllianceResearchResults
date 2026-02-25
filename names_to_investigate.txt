@@ -1,4 +1,4 @@
-Donald Trump - (Researcher:benn8901, UserID: 499692561586323460)
+Donald Trump - benn8901
 Bill Gates
 Elon Musk
 Leonardo DiCaprio
@@ -26,7 +26,7 @@ Ahmed Aboul Gheit
 Alan Dershowitz
 Andrew Cuomo
 Phil Collins
-Larry Summers
+Larry Summers - Redbone, completed
 Ehud Barak
 Leon Black
 Les Wexner
@@ -34,4 +34,4 @@ Glenn Dublin
 Peter Mandelson
 Khalid Bin Ahmed Al Khalif
 Makhdoom Shah Mahmood
-Henry Odein Aiumoqobia
+Henry Odein Aiumoqobia - Redbone
