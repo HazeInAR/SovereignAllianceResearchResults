@@ -1,0 +1,20 @@
+# New Mexico Political Cover — Truth Commission, Romero, and Zorro Ranch
+
+## Summary
+This note explains how the New Mexico legislature (led by Representative Andrea Romero) created a politically legitimate framework to investigate Jeffrey Epstein’s Zorro Ranch even while the same state players that allowed the ranch to operate remain in power. It overlaps directly with the Zorro dossier and the Jericho/New Mexico infrastructure; every invoice for legislative staff, AG contractors, security upgrades, or truth-commission travel should cite this note.
+
+## Key points from the Romero transcript
+1. **Truth commission structure** – Romero recruited two Republicans (Bill Hall, former FBI; Mariana Naya, long-time victim advocate) and two Democrats (Andrea Reeb, prosecutor; herself) to build a unanimous panel. Every invoice tied to legislative council contracts, commission staffers, or the bipartisan committee budget now belongs to this node. It gives us the legitimacy we need to link state spending to Zorro, Jericho, and the hidden infrastructure that Eddie Aragon described.
+2. **AG collaboration** – She confirms the Department of Justice relaunched a criminal investigation the same week the commission sat (transcript 4:00–12:40). Tag invoices paid to the AG’s office, investigators, or state contractors with this note so we can show the same financial actors are funding the New Mexico justice effort and the cover-up watchdog simultaneously.
+3. **Construction/gate concerns at Zorro** – Romero explicitly worries about unpermitted gates and security upgrades tampering with the crime scene (16:00–17:30). That connects to the same equipment list (incinerators, alarm systems, air handling units) the Jericho crosswalk tracks—any invoice referencing the ranch’s physical changes should be cross-tagged with the Jericho row and this political-cover note.
+4. **Survivor voices + victims** – She says survivors told her New Mexico was “the worst” and confirmed Zorro Ranch witnesses (19:30–20:55). That gives the commission’s narrative weight when linking victim payments, advocacy invoices, or legislative outreach to the same victims mentioned in the Zorro dossier.
+5. **Political secrecy & cover-ups** – Romero describes pushback from powerful players (Richardson, Gary King) and insists the commission is nonpartisan (14:00–15:40). That statement helps us frame invoices to those political figures as part of the cover-up, especially if those payments tie into Jericho or Zorro’s logistics network.
+
+## Zorro dossier overlap
+- Every entry in this note should map back to `analysis/medical_cloning_players_dossier.md`, `analysis/equestrian_ivf_financial_matrix.md`, and the `ZORRO_BREEDING_MEDICAL_EQUIPMENT_INVESTIGATION.md` file: the political cover gives legitimacy to the same players we already know are running logistics, placements, and genetic infrastructure. For example, invoices for William Hall’s investigative staff can be flagged alongside the ranch contractor invoices in the Zorro dossier because both support the same investigative/political timeline.
+
+## Romeros’ contact with Eddie Aragon?
+- There is no evidence in the transcripts or the dataset that Representative Romero ever reached out to Eddie Aragon. The podcast transcripts mention her collaboration with the DOJ and the commission but never refer to Eddie’s radio show or the Bitcoin tip. Until a new document surfaces showing direct contact, we treat the two paths as parallel but separate: Eddie is the media whistleblower, and Romero is the official legislative clean-up. Both are part of the same narrative, but there’s no confirmed outreach between them.
+
+## Next actions
+1. Tag all truth-commission invoices (legislative council, AG subpoenas, commission travel) with this note so they show up under the political cover context. 2. Cross-reference the ranch construction invoices with the Jericho row and cite Romero’s gate-security concern in `analysis/jericho_new_mexico.md`. 3. Add this note to the Zorro dossier index (`ZORRO_DOSSIER_INDEX.md` if it exists) so future readers see the political legitimacy layer alongside the physical/logistics evidence.

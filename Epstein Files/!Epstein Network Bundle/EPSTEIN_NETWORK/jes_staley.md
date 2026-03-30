@@ -1,0 +1,18 @@
+# Jes Staley — Banker / Epsteins Financial Contact
+
+**Status:** High-value associate / subject of ongoing probes. This file collects the publicly reported threads tying Jes Staley to Jeffrey Epstein, the resulting regulatory fallout, and the updates from the team (including <@476415637950955522>’s work in <#1478120716850434189> on JPMorgan compliance). Use it whenever the dossier needs a quick briefing on how finance executives kept Epstein operational.
+
+## Key touchpoints
+1. **JPMorgan / private banking relationship** – Staley built Epstein’s private banking relationship when he ran JPMorgan’s wealth management division. It took years before the bank severed ties, and contemporaneous emails show he resisted early attempts to cut Epstein loose. Reporting (Guardian *“High flyer to pariah,”* June 27, 2025) quotes a former insider: Staley and Epstein developed a “fairly close professional relationship,” and Staley was the executive who repeatedly flagged Epstein’s files as “pending Dimon review.” The Senate Finance Committee later highlighted these threads in its Sept. 25, 2025 probe of JPMorgan compliance failures, showing the bank kept Epstein on the books through 2013 even as regulators raised red flags.
+
+2. **Barclays fallout & alleged sexual assault** – After leaving JPMorgan for Barclays, Staley testified in 2025 that he had alerted Jamie Dimon to Epstein’s misconduct. In February 2026 the Guardian reported that U.S. prosecutors cited a memo describing an incident from 2011/2012 in Epstein’s New York residence: Epstein “instructed [redacted] to provide a massage to Jes Staley.” Staley described the encounter as consensual, but the document remains part of the continuing Epstein files and is linked to the DOJ follow-up on the massage-laundering channel. This memo is referenced in the latest Guardian story *“Rape allegation against ex-Barclays CEO Jes Staley”* (Feb. 5, 2026), which also tracked how ongoing allegations sank his Barclays tenure.
+
+3. **BoingBoing / public accountability** – A March 5, 2026 BoingBoing summary noted that Staley was accused of repeatedly thwarting JPMorgan’s efforts to cut Epstein loose and that he had been the internal executive most resistant to those moves. That story aggregates the leaked emails, the Senate filings, and the Guardian timelines, offering a concise reference for the bank’s “protect Epstein -> internal pushback -> regulatory probe” narrative. Staley’s story is now a textbook case of how a financial gatekeeper can become a “fairly close professional” of a trafficker while the compliance apparatus looks the other way.
+
+## Dossier links
+- **Cross-reference this file with:** `third_party_associates.md` (for the business network table), the `crime_catalog.md` entry on banking/finance nodes, and the `network/master_network_registry.md` “Banking / Compliance” section.
+- **Source tracker:** Guardian (June 27, 2025; Feb. 5, 2026), Guardian/Senate committee press (Sept. 25, 2025), BoingBoing (Mar. 5, 2026).
+- **Internal note:** <@476415637950955522>’s <#1478120716850434189> compliance work has flagged the same JPMorgan emails plus the Staley/Dimon discord. Attach those spreadsheets or briefs to this note when the next leak hits.
+
+## Next steps
+1. Feed this note into `third_party_associates.md` so readers can see the Staley entry the moment they scan the banker list. 2. Tag the note `#banking`, `#compliance`, `#jpmorgan`, `#barclays` so it feeds the master registry. 3. Once the DOJ releases the full memo referenced in the Guardian story, attach the EFTA number (or DOJ document ID) for that massage allegation.

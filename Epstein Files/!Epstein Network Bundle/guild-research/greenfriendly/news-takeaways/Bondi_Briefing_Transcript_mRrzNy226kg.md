@@ -1,0 +1,10 @@
+# Key Takeaways — Congressional Briefing Interview with Pam Bondi & Todd Blanche (YouTube `mRrzNy226kg`)
+*Source: Videoed briefing published March 2026. Summary based on transcript.*
+
+1. **Bondi vows to “follow the law”** when asked whether she will comply with the House Oversight subpoena—she simply states she’ll obey the law and moves to the next question without elaborating on timing or logistics.
+2. **Victim privacy concerns remain raw.** When pressed about the mass document release naming victims, Bondi says the DOJ used 500 attorneys across the Criminal Division, NSD, and FBI to redact the 3M documents in 30 days, claiming less than 1% of redactions were mistakes and that identified errors were pulled down and corrected immediately.
+3. **Blanche backs the effort.** Deputy AG Todd Blanche reiterates that DOJ constantly fixes mistakes once lawyers flag them and insists the department has complied with transparency obligations; he frames calls for apologies as unfair and hostile rather than a reflection of wrongdoing.
+4. **Bondi repeats the “no documents before Trump” defense.** She frames the disclosure saga as spanning four administrations, praising the Trump DOJ for doing the actual prosecution and faulting Biden for releasing zero documents while her team delivered three million under the statute.
+5. **Democrats walk out of the supposed briefing.** When members demanded C-SPAN recording, they left, calling the session a “fake hearing” that dodged the deposition requirement; Bondi says they asked questions and then stormed out when C-SPAN wasn’t present.
+
+*Next steps:* Store this along with the other Briefing/Deposition summaries and cross-index it in `output/dossiers/AG_Bondi_Oversight.md` to reflect ongoing congressional optics. Let me know if you’d like me to flag any quotes for quoting in Discord or other briefs.

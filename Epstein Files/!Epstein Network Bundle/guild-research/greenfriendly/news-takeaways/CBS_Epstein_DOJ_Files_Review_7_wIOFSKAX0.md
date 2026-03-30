@@ -1,0 +1,11 @@
+# Key Takeaways — CBS News “7_wIOFSKAX0” segment (March 2026)
+*Source: CBS News original reporting (YouTube). Summary based on transcript of the broadcast.*
+
+1. **DOJ & Bondi under pressure:** House Democrats are meeting with AG Pam Bondi and Deputy AG Todd Blanche about the Epstein files and alleged REDACTIONS, while Republicans (needed for subpoenas) are also grilling them. Garcia insists the briefing cannot replace the bipartisan deposition scheduled for April 14.
+2. **Bondi’s transparency missteps:** CBS revisits the binder/“client list” fiascos, noting previously touted evidence claims were false and that Bondi’s “nothing else to investigate” line is contradicted by ongoing overseas cases confronting Epstein affiliates.
+3. **Redaction concerns:** The DOJ’s 3.5M file release included heavily redacted DEA money-laundering probe docs. Congress passed a veto-proof law forbidding wide-scale redactions, but DOJ still blurred pages, prompting questions about compliance and whether other countries’ prosecutions point to missing edges.
+4. **Blanche’s defense:** Deputy AG Todd Blanche insists the DOJ investigates “every perpetrator,” denies ignoring victims, and pushes back on theories about the orange figure on the 10:40 p.m. Holocaust of footage. CBS contrasts that with dropped charges against guards and the sense that accountability stalled midcase.
+5. **Independent reporting & oversight:** CBS features NYT Magazine’s Emily Balsam (Basilaw) who argues the redactions are overbroad and the DOJ’s “everything’s fine” posture ignores rising questions. Both DHS and Congress continue pressing for clarity, especially around the DEA doc that may list 12 other people—potential co-conspirators left off indictments.
+6. **Narrative tension:** The piece stresses the contrast between DOJ’s insistence on completeness and the public’s unease: why keep redacting if not to hide names? Why drop charges on the guards? Why provide a “nothing to see here” memo when foreign arrests keep surfacing? The end result feeds the suspicion Garland-era transparency eroded under the Trump DOJ.
+
+*Next steps:* Add this to the news findings folder (done). If you want this woven into the oversight and AG threads, we can cite it under `output/dossiers/AG_Bondi_Oversight.md` and note how CBS’s reporting echoes the doc-redaction and accountability critiques.*

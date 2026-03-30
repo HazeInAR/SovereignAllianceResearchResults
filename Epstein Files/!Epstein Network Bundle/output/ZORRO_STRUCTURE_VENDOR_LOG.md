@@ -1,0 +1,19 @@
+# Zorro Structure Vendor & Contractor Log
+
+This log keeps track of any builders, contractors, vendors, or service firms tied to each R01–R16 structure on the Santa Fe County assessor map (`output/ZORRO_STRUCTURE_CROSSWALK.md`). Use it when requesting permits, utility work orders, or security-maintenance records so we can tie the physical infrastructure back to documented companies.
+
+| R Number | Structure | Known Vendors / Contractors | Notes & Next Steps |
+|----------|-----------|-----------------------------|--------------------|
+| R01 | Main mansion (31,696 sq ft with porches, pool, garage) | **Current owner:** Don Huffines / HEST Investments (purchased 2023, renamed San Rafael Ranch). **Recent flags:** Huffines/HEST are tearing up the parcel with major excavations, a “new gate” build, and possible industrial landfill/crematorium infrastructure that county staff say lacks permits (Santa Fe New Mexican, Feb 25 2026; Alisa V Substack, Mar 2026; Yahoo/KRQE, Mar 2026 stop-work update). | Keep watching the same R01/R09/R16 corridors for contractor names that turn up in Huffines coverage (e.g., entrance gate crews, excavation contractors). Tag any newly mentioned vendors in this log and cross-check whether they also appear on other Epstein properties; treat these open-source findings as vendor leads until official records arrive.
+| R02 | Staff dwelling (434 sq ft) + Loafing area | **Pending** | Request any R02 permit/utility applications to see which general contractors/electricians wired the cottage.
+| R03 | Staff dwelling (1,895 sq ft) | **Pending** | Include R03 in FOIA for county occupancy and septic approvals—contractor names may appear in plumbing/electrical permits.
+| R04 | Bank barn / garages / carport cluster | **Potential vendors:** look for barn/equestrian builders (e.g., Harris Construction, 505 Equestrian) in the 2005–2012 permit history. | Compare building permit logs to the barn/garage invoices mentioned in the 2012 asset list and mark the names once confirmed.
+| R05 | Large staff residence + garage/utility | **Pending** | Search for permit files referencing "staff housing" or "guest quarters" on parcel 500001221—these usually name framing/electrical crews.
+| R06/R07 | Stable (5,773 sq ft) + AG offices | **Vendors to check:** Any equine facility/metal building supplier (e.g., Agri-Structures, Santa Fe Barn). | Add vendor names once FOIA returns specific contractor names and tie them to invoices referencing stable-specific works.
+| R08 | Staff dwelling + garage | **Pending** | Include R08 in septic, well, and meter permit requests to capture plumber/electrician names.
+| R09 | Detached garage (4,039 sq ft) | **Critical vendors:** Security camera installers, gun safe suppliers, or high-security garage builders. | Use Amber Chavez burglary incident (ZORRO_BREAK_IN_CRIME_ANALYSIS.md) to push law-enforcement/insurance records for service companies that serviced R09.
+| R10 | Dwelling + utility room | **Pending** | Utility room upgrades may have required HVAC or electrical contractors—check county mechanical permits.
+| R11 | Guard cottage | **Pending** | Often smaller contract logs for security housing; check 2012 payroll/asset list for references to maintenance crews.
+| R12–R16 | Garages & utility rooms | **Pending** | These rooms are the most likely to have specialized security/equipment suppliers—pull vendor names from the 2012 equipment inventories and the Amber Chavez burglary log.
+
+**Why this matters:** With R-number-based vendor data we can quickly tie the structures to actual companies, making FOIA/permit requests precise instead of vague. Once we have contractor names we can cross-check whether those same firms worked on Epstein’s Manhattan properties, helping tie the network’s logistics and maintenance across states.

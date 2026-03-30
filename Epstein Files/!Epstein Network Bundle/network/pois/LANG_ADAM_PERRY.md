@@ -1,0 +1,15 @@
+# Adam Perry Lang
+**Category:** Staff / Hospitality
+**Status:** Suspected
+**Tags:** Staff, Hospitality
+
+Chef and hospitality manager listed on multiple manifests. Close to Maxwell/Maxwell staff.
+
+## Evidence & Documents
+- `manifest_summary_tables.txt` – Palm Beach manifest narrative
+- `person_flight_dates_table.txt` – OCR-derived dates for the manifest runs
+- `manifest_passenger_log.csv`, `passenger_occurrences.csv`, `redacted_occurrences.csv` – raw manifest parsing output
+- `louella_rabuyo_dossier.txt`, `PlanD_Aviation_Summary.md` – Maxwell staff / finance context
+
+## Notes & Questions
+- Add additional documents as the case expands or when new EFTA files reference the name.

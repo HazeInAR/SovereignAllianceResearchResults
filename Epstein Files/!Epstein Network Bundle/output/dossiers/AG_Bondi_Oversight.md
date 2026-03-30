@@ -1,0 +1,19 @@
+# AG Bondi Oversight — House Oversight Committee (March 2026)
+
+**Focus:** Attorney General Pam Bondi’s handling of the Epstein files, DOJ politicization, and follow-up on Epstein’s death under House Oversight’s bipartisan regime. 
+
+- **Public contempt threat.** Rep. Melanie Stansbury took to Threads to publicly warn DOJ that the committee has �put them on notice� and will pursue contempt if subpoenas are ignored, underscoring the legal pressure to comply before the deposition/dossier line closes (`guild-research/greenfriendly/news-takeaways/Stansbury_DOJ_Notice_Threads_DWE4ToQiYRI.md`).
+- **Voluntary briefing vs. subpoenaed deposition.** Bondi offered a closed-door briefing while a bipartisan subpoena already compels her sworn testimony. Ranking Member Robert Garcia plans to use the briefing to set the table, but he insists the deposition cannot be replaced and expects both the video and transcript to be published like other major Oversight proceedings. The March briefing itself repeatedly cited the 3 million-document release, victim-privacy redactions, and the fact that Democrats walked out when C-SPAN wasn’t present, reinforcing why formal, recorded testimony is still needed (`guild-research/greenfriendly/news-takeaways/Bondi_Briefing_Transcript_mRrzNy226kg.md`).
+- **Demand for document release.** The committee is pressing Bondi to deliver the outstanding roughly 3 million documents despite her citing the Transparency Act’s inter-agency carve-outs. Garcia emphasizes the subpoena has no such exemption and will ask why DOJ continues to withhold files even while invoking the same statute; CBS’s March segment likewise highlights the oversized REDACTIONS on the DEA DOC and the perception that the DOJ is ducking congressional deadlines (`guild-research/greenfriendly/news-takeaways/CBS_Epstein_DOJ_Files_Review_7_wIOFSKAX0.md`).
+- **Public accountability.** Garcia says the briefing summary and deposition findings should be shared with the public unless classified or survivor-sensitive information prevents it, countering the narrative that DOJ is shielding Trump or playing politics with survivors’ records.
+- **Expanding GOP pressure.** While most Republicans defer to the White House, a subset (Nancy Mace, Anna Paulina Luna, others) is helping force subpoenas and press for transparency, potentially creating bipartisan backing for future enforcement or (if Bondi keeps stonewalling) impeachment considerations.
+- **Epstein death + DOJ cover-up frame.** The committee is requesting the prison guard who worked the night Epstein died to testify, citing missing footage, inconsistent reports, and payments to the guard; Garcia says exploring every lead is necessary to avoid leaving any doubt about the official suicide finding and to challenge vague DOJ narratives.
+- **What a Democratic majority would aim for.** Garcia says the committee is hamstrung under GOP control; if Democrats regain the gavel, they expect to subpoena dozens of additional witnesses—finance executives, DHS actors (Steven Miller, Christine Gnome, Cory Lewandowski), Cantor/Tether beneficiaries, banks tied to Epstein—to complete the corruption/accountability picture.
+
+**Links:**
+- Summary of the March briefing interview (House Oversight ranking member Robert Garcia): `guild-research/greenfriendly/news-takeaways/Garcia_Bondi_Briefing.md`
+- Oversight transcript/video request timeline: [Pending future uploads]
+
+**Tagging:** #AGBondiOversight #DOJPoliticization #EpsteinFiles #BondiSubpoena #EpsteinDeath #HouseOversight
+
+**Next actions:** Monitor for the deposition release (video/transcript) and update this dossier with key admissions; cross-reference any new DOJ document dumps or Bondi statements with the master dossier’s finance/politicization threads.

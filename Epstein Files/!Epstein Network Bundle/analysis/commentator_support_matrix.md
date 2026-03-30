@@ -1,0 +1,17 @@
+# Commentator Support Matrix — Israel & Epstein Network Signals
+
+**Purpose:** Record which commentators lean pro-Israel vs. critical, note their ideological bent (conservative/liberal/other), and tie the ones with Israeli-friendly messaging back to any known funding, narrative control, or Epstein-network overlap (wars, propaganda connections, elite donors). This helps differentiate organic opinion from sponsored Israel-aligned influence and flags who is most likely funded through the same ecosystem we’ve been mapping (Wilks/ExpressVPN, AIPAC donors, elite donors).
+
+| Commentator | Lean | Announces Israel support? | Funding/Donor clues | Epstein network ties / notes | Tags |
+|-------------|------|--------------------------|--------------------|------------------------------|------|
+| Ben Shapiro | Conservative / MAGA | Yes — consistently pro-Israel, amplifies AIPAC-style narratives | Daily Wire funded by Wilks brothers; ExpressVPN sponsor (Kape/Teddy Sagi). | Logged in `analysis/ben_shapiro.md`, `analysis/ben_shapiro_funding_history.md`, `analysis/dailywire_sponsor_log.md`; ties to conservative Israel propaganda pipeline. | `#BenShapiro`, `#IsraelLobby`, `#narrative-control`, `#DailyWire` |
+| Tucker Carlson | Conservative / MAGA | Varies (recently critical of Israeli policies but still in Israel-connected media ecosystem) | Fox / self-funded; some donors tracked through conservative PACs. | Previously flagged in `analysis/tucker_carlson_pizza_brief.md` and elite world-building context as part of conservative narrative control; needs overlap tagging once funding more specific. | `#TuckerCarlson`, `#MAGA`, `#narrative-control` |
+| Candace Owens | Conservative influencer | Has shifted toward pro-Israel messaging (recent conflict with Shapiro is noted) | Daily Wire platform; receives backing from right-wing PAC ecosystem. | Mentioned in Ben Shapiro context; no direct Epstein doc links yet but in same circle. | `#CandaceOwens`, `#Israel`, `#MAGA` |
+| Andrew Yang | Moderate / centrist | Critical of Israeli actions (supports Palestinian humanitarian aid) | Not currently tied to Israel lobby donors. | No Epstein ties. | `#AndrewYang`, `#liberal-lean`, `#pro-Palestine` |
+| Tariq Nasheed | Progressive | Critical of Israel, highlights anti-Palestinian violence | Independent-funded; occasional Patreon income. | No known Epstein ties. | `#Nasheed`, `#progressive`, `#anti-Israel` |
+| John Kiriakou | Former CIA counterterrorism officer / whistleblower | Critical of torture and rendition programs, does not promote pro-Israel lobbying | Independent media tours, books (*The Reluctant Spy*, *Doing Time Like a Spy*), podcast appearances; no pro-Israel donors listed | No Epstein links in the local corpus; treat him as a “resource voice” to watch when intelligence narratives are deployed—flags ethics/Accountability angle. | `#JohnKiriakou`, `#intel-whistleblower`, `#torture-reform`, `#watchlist` |
+
+## Next steps
+1. Each time a new commentator becomes relevant to the Epstein files narrative, add a row with their lean, stance, and any funding/Donor clues.  
+2. Cross-link this matrix from the `elite_world_building_context.md` Israel/propaganda pipeline row so the world-building map can track who is inside the funded network vs. a counter narrative.  
+3. When a commentator begins referencing Epstein documents (especially referencing specific EFTA IDs), note the clip/timestamp and tag it with `#EpsteinFiles` so the network can trace whether the pro-Israel lane is using the files as propaganda or as genuine analysis.

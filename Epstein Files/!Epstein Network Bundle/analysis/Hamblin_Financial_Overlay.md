@@ -1,0 +1,16 @@
+# Susan Hamblin Financial Overlay Ledger
+
+**Purpose:** catalog every known concierge/invoice request from Hamblin-linked EFTA emails and match it with corresponding vendors, shell companies, or payment nodes tied to Pierce/tech bunker networks.
+
+| EFTA ID | Vendor / Request | Payment Hook | Pierce / Hamblin Overlap | Notes |
+| --- | --- | --- | --- | --- |
+| EFTA02079495 (R1_00660228) | "Jeffrey's sweatshirts" label/sku request (Apr 21, 2015) | Pending: search Pierce / Austin Hill procurement ledgers for apparel invoices around Apr 2015 | `#PierceHamblin`, vendor role in Little St. James | Match vendor names (Lund & Pullara, Lesley Groff) with boards/trusts in Elite Affiliates ledger; flag when a wire pops up.
+| EFTA02107198 (R1_00723960) | Painter coordination (May 5, 2014) - "Ion Nikola the painter" | Pending: identify any art supplier payment in Pierce-linked escrow or Richard Kahn shell company | Galleries or creative vendors overlap with Maxwell/Pierce art procurement | Check House Oversight doc for same painter names and link to Pierce art fundraising.
+| EFTA02151581 (R1_00814933) | "Princess" itinerary & Boris schedule (Jan 7, 2013) | Pending: align with flight logistic invoices for Bates / Janusz Banasiak / Kirwan | Travel booking sits on N909JE/N908JE; potential connection to Pierce jet-charter network | Once a flight invoice is found in Elite Affiliates ledger, mark `#InvoiceMatch`.
+| EFTA02120111 (R1_00753151) | Boris arrival time change (Nov 16, 2013) | Pending: confirm associated security/scheduling payout | Security handler (Lesley Groff / Richard Kahn) appear in Pierce travel nodes | Use House Oversight wires / Global Options structures to trace payments.
+| EFTA02140942 (R1_00794822) | Girls' itinerary/hotel question (Apr 27, 2013) | Pending: vendor payments to hotels or concierge teams (Lesley Groff) | Overlaps with Pierce’s event & accommodation budgets | Compare to Pierce partner invoices for Little St. James stays.
+| EFTA01832366 (R1_00210040) | Jet/heli pre-clearance (Dec 29, 2010) | Pending: payment to Teterboro/St. Thomas authorities or charter firm | Direct flight support for Epstein’s private jet network - see `flight-heystack` nodes | Use this as anchor for matching N909JE charters in the ledger.
+| EFTA01645970 cluster | Extended travel/booking PDFs (Dec 2010) | Pending: compare vendor entries (e.g., SarahLynnElle Kensington, Janusz Banasiak) with Pierce/Blackstone shell wires | Contains airline booking data (passenger names, tickets) linking to world traveler nodes | Exported PDF has multiple EFTA references; update table once specific vendor payment evidence emerges.
+| Kids2Families (UBI 602 895 313) dissolution notice | Legal anchor / Issaquah 1420 NW Gilman Blvd #2728 (425 area) identity for the concierge operator | N/A (no direct payment yet) | `#IdentityMatch`, `#Kids2Families` | Confirmed administrative dissolution 02/09/2023; use as address match when invoices reference 425/Issaquah or Helsell Fetterman agent.
+
+**Next Step:** keep updating this ledger with matching payment references from the `Elite_Affiliates_Index` and `Southern_Trust` ledgers, tagging each row `#FinancialOverlap` once a wire or invoice is confirmed. Use the ledger to feed the `Susan_Hamblin_Dossier` Section 9 and the master triage list.
